@@ -4,3 +4,7 @@ Demo program for BeagleSDR (https://github.com/mhe747/dawnboard)
 
 Sending audio data from PC over the serial port to FPGA, then data are written into to SDRAM, 
 and finally playback using FIFO output to DAC.
+
+Ext link where the original files came from :
+
+	http://hamsterworks.co.nz/mediawiki/index.php/SDRAM_Audio_playback
